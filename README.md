@@ -3,9 +3,7 @@
 
 🚀 Full-Stack Web Developer | MERN Stack Enthusiast 🌐
 
-👋 Hi there! I'm SHahnawaz Alam, and I'm on a journey to master the art of web development. Currently learning and building with the MERN stack.
-
-💪 I've already conquered HTML, CSS, and JavaScript.
+👋 Hi there! I'm SHahnawaz Alam, and I'm on a journey to master the art of web development.
 
 💡 Passionate about crafting responsive, user-friendly web applications.
 
